@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden files and folders (e.g. in Mac)
+.DS_Store
+*/.DS_Store
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook data
+profile_default/
+ipython_config.py
+
+# Python virtual environment
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebook output (cell outputs, figures)
+*.h5
+*.csv
+*.tsv
+*.pkl
+*.joblib
+
+# Backup files from editors
+*~
+
+
+ds/
