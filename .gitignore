@@ -39,3 +39,4 @@ poetry.lock
 
 
 ds/
+logs/
